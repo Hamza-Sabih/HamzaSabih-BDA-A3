@@ -18,7 +18,7 @@ This project showcases a streaming data analysis pipeline using Kafka and freque
 
 ### Group Members
 - *Shahroze Naveed (22i-1922)*
-- *Hamza Sabhi (22i-1948)*
+- *Hamza Sabih (22i-1948)*
 - *Taha Rasheed (22i-2009)*
 
 ### Conclusion
